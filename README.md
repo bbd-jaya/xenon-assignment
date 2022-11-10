@@ -5,7 +5,7 @@
 ## Login Page
 ![LoginPage!](https://github.com/bbd-jaya/xenon-assignment/blob/main/images/LoginPage.png)
 ### Sign Up Page
-![](https://github.com/zack160/xenonStack/blob/main/images/SignUpPage.png)
+![](https://github.com/bbd-jaya/xenon-assignment/blob/main/images/SignUpPage.png)
 #### Contact Us Page
 ![](https://github.com/zack160/xenonStack/blob/main/images/contactUs.png)
 ##### Our Products Page
