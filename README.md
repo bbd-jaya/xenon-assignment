@@ -7,6 +7,6 @@
 ### Sign Up Page
 ![](https://github.com/bbd-jaya/xenon-assignment/blob/main/images/SignUpPage.png)
 #### Contact Us Page
-![](https://github.com/zack160/xenonStack/blob/main/images/contactUs.png)
+![](https://github.com/bbd-jaya/xenon-assignment/blob/main/images/contactUs.png)
 ##### Our Products Page
 ![](https://github.com/zack160/xenonStack/blob/main/images/Screenshot%20(84).png)
